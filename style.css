@@ -4,6 +4,12 @@
 	box-sizing:border-box;
 }
 
+/* animation code */
+
+html{
+    scroll-behavior: smooth;
+  }
+
 @keyframes fadein {
     from {
         opacity:0;
@@ -404,23 +410,23 @@ body {
     margin-left: 10px;
     font-size: 20px;
     color: rgb(92, 89, 91);
-
-
+    
 }
 
 .namey {
-    margin-left: 10px;
+    margin-left: 5px;
     color: #F5BD1B;
     font-size: 20px;
     font-weight: bold;
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .namez {
-    margin-left: 10px;
+    margin-left: 5px;
     color: #064F90;
     font-size: 20px;
     font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .box .line, .box3 .line, .box4 .line {
@@ -441,6 +447,7 @@ body {
     /* border: 1px solid black; */
     width: 90%;
     margin: 5px auto;
+    
 
 }
 
@@ -455,7 +462,20 @@ body {
     margin-bottom: 5px;
     border-bottom: 1px solid #82B5C8;
     color: rgb(92, 89, 91);
+    
 }
+
+.cnews li:hover {
+    border-radius: 0px 15px 0px 0px;
+    background-color:  rgba(130, 181, 200, 0.247);;
+}
+
+.cnews li a {
+    text-decoration: none;
+    color: rgb(92, 89, 91);
+}
+
+
 
 .cnews img {
     width: 100%;
@@ -496,6 +516,16 @@ body {
     color: rgb(92, 89, 91);
 }
 
+.cask li:hover {
+    border-radius: 0px 15px 0px 0px;
+    background-color:  rgba(130, 181, 200, 0.247);;
+}
+
+.cask li a {
+    text-decoration: none;
+    color: rgb(92, 89, 91);
+}
+
 .cask .button {
     margin-top: -50px;
     width: 120px;
@@ -520,6 +550,16 @@ body {
     width: 90%;
     margin-bottom: 5px;
     border-bottom: 1px solid #82B5C8;
+    color: rgb(92, 89, 91);
+}
+
+.cevent li:hover {
+    border-radius: 0px 15px 0px 0px;
+    background-color:  rgba(130, 181, 200, 0.247);;
+}
+
+.cevent li a {
+    text-decoration: none;
     color: rgb(92, 89, 91);
 }
 
@@ -551,6 +591,15 @@ body {
     width: 90%;
     margin-bottom: 5px;
     border-bottom: 1px solid #82B5C8;
+    color: rgb(92, 89, 91);
+}
+
+.carticle li a:hover {
+    color:  #82B5C8;
+}
+
+.carticle li a {
+    text-decoration: none;
     color: rgb(92, 89, 91);
 }
 
@@ -672,6 +721,7 @@ table {
 
 .fcon p {
     font-size: 15px;
+    color: rgb(92, 89, 91);
     
 }
 
@@ -737,10 +787,11 @@ table {
 }
 
 .column .t2 {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
     color: #82B5C8;
     margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .column .line {
