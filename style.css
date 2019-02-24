@@ -47,16 +47,12 @@ html{
     width: 100%;
 } */
 
-body {
-    /* border: 1px solid black; */
-    
 
-}
 
 /* header section */
 
 .header {
-    /* border: 1px solid black; */
+    
     background-color: white;
     width: 100%;
     height: 200px;
@@ -66,13 +62,13 @@ body {
 }
 
 .logocon {
-    /* border: 1px solid black; */
+    
     text-align: center;
 
 }
 
 .logo {
-    /* border: 1px solid black; */
+    
     background-color:white;
     width: 325px;
     height: 130px;
@@ -88,7 +84,7 @@ body {
 }
 
 .header .search {
-    /* border: 1px solid black; */
+    
     width: 250px;
     height: 25px;
     float: right;
@@ -118,7 +114,7 @@ body {
 .header .nav {
     clear: both;
     text-align: center;
-    /* border: 1px solid black; */
+    
     /* float: right; */
     width: 100%;
     height: 30px;
@@ -130,7 +126,7 @@ body {
 
 .header ul {
     text-align: center;
-    /* border: 1px solid black; */
+    
     /* float: right; */
     width: 100%;
     margin-left: -1.5%;
@@ -139,7 +135,7 @@ body {
 }
 
 .header ul li {
-    /* border: 1px solid black; */
+    
     display: inline-block;
     padding: 0px 10px;
     margin-top: 4px;
@@ -217,7 +213,6 @@ body {
 /* banner section */
 
 .banner {
-    /* border: 1px solid black; */
     width: 100%;
     margin: 6px auto;
     height: 450px;
@@ -229,7 +224,6 @@ body {
 }
 
 .banner .img {
-    /* border: 1px solid black; */
     width: 70%;
     height: 450px;
     float: left;
@@ -240,7 +234,6 @@ body {
 }
 
 .banner .text {
-    /* border: 1px solid black; */
     width: 30%;
     height: 450px;
     float: right;
@@ -249,7 +242,6 @@ body {
 }
 
 .banner .text .move {
-    /* border: 1px solid blue; */
     margin-top: 20px;
 }
 
@@ -260,11 +252,10 @@ body {
     margin-top: 0px;
     color: rgb(92, 89, 91);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    /* border: 1px solid blue; */
+
 }
 
 .banner .text .insurance {
-    /* border: 1px solid blue; */
     width: 100%;
     height: 55%;
     margin-top: 30px;
@@ -278,13 +269,11 @@ body {
     margin-left: 20px;
     margin-top: 100px;
     color: rgb(92, 89, 91);
-    /* border: 1px solid blue; */
 
 }
 
 .insurance .incon {
     text-align: center;
-    /* border: 1px solid blue; */
     width: 50%;
     height: 250px;
     float: left;
@@ -310,7 +299,6 @@ body {
 /* content section */
 
 .content {
-    /* border: 1px solid blue; */
     width: 95%;
     margin: 0px auto;
     height: 700px;
@@ -323,7 +311,6 @@ body {
 }
 
 .c {
-    /* border: 1px solid black; */
     width: 31.3%;
     height: 500px;
     float: left;
@@ -332,7 +319,6 @@ body {
 }
 
 .box {
-    /* border: 1px solid black; */
     width: 100%;
     height: 425px;
     margin-bottom: 20px;
@@ -347,12 +333,10 @@ body {
 }
 
 .box2 {
-    /* border: 1px solid black; */
     width: 100%;
     height: 300px;
     margin-bottom: 20px;
     border-radius: 10px;
-    /* background-image: linear-gradient(to bottom, rgb(243, 241, 241), white); */
 }
 
 .box2 .name {
@@ -370,12 +354,10 @@ body {
 }
 
 .box3 {
-    /* border: 1px solid black; */
     width: 100%;
     height: 100px;
     margin-bottom: 20px;
     border-radius: 10px;
-    /* background-image: linear-gradient(to bottom, rgb(243, 241, 241), white); */
 }
 
 .box3 .name {
@@ -385,7 +367,6 @@ body {
 }
 
 .box4 {
-    /* border: 1px solid black; */
     width: 100%;
     height: 300px;
     margin-bottom: 20px;
@@ -400,7 +381,6 @@ body {
 }
 
 .name .name2 {
-    /* border: 1px solid black; */
     margin: 10px auto;
     font-size: 17px;
     width: 95%;
@@ -444,7 +424,6 @@ body {
 }
 
 .cnews {
-    /* border: 1px solid black; */
     width: 90%;
     margin: 5px auto;
     
@@ -496,13 +475,11 @@ body {
 }
 
 .cask{
-    /* border: 1px solid black; */
     text-align: center;
 
 }
 
 .cask ul {
-    /* border: 1px solid black; */
     margin-top: 10px;
     list-style: url(./img/arrow.png);
 }
@@ -536,9 +513,7 @@ body {
     color: white;
 }
 
-.cevent {
 
-}
 
 .cevent ul {
     margin-top: 10px;
@@ -573,14 +548,9 @@ body {
     color: white;
 }
 
-.carticle {
-    /* border: 1px solid black; */
-    
 
-}
 
 .carticle ul {
-    /* border: 1px solid black; */
     list-style: none;
     display: grid;
 }
@@ -626,7 +596,6 @@ body {
 }
 
 #schedule .table {
-    /* border: 1px solid black; */
     width: 90%;
     height: 540px;
     margin: 1px auto;
@@ -663,7 +632,6 @@ table {
 /* footer section */
 
 .footer {
-    /* border: 1px solid black; */
     width: 100%;
     height: 200px;
     background-image: linear-gradient(to bottom, rgb(243, 241, 241), #8B8F86);
@@ -672,7 +640,6 @@ table {
 }
 
 .f {
-    /* border: 1px solid black; */
     width: 31%;
     height: 180px;
     float: left;
@@ -681,7 +648,6 @@ table {
 }
 
 .fcon {
-    /* border: 1px solid black; */
     margin-top: 20px;
     margin-left: 10px;
 
@@ -726,7 +692,6 @@ table {
 }
 
 .footer2 {
-    /* border: 1px solid black; */
     width: 100%;
     height: 20px;
     margin-top: -10px;
@@ -746,13 +711,11 @@ table {
 
 /* container */
 .content .container {
-    /* border: 1px solid black; */
     width: 100%;
     height: 700px;
 }
 
 .container .back {
-    /* border: 1px solid black; */
     margin-top: 10px;
     margin-bottom: 10px;
     width: 100%;
@@ -771,7 +734,6 @@ table {
 }
 
 .container .column {
-    /* border: 1px solid black; */
     width: 100%;
     height: 680px;
     
@@ -806,7 +768,6 @@ table {
 /* about */
 
 .about .col {
-    /* border: 1px solid black; */
     width: 30%;
     height: 600px;
     float: left;
@@ -815,7 +776,6 @@ table {
 }
 
 .about .award {
-    /* border: 1px solid black; */
     height: 600px;
     color: rgb(92, 89, 91);
     
@@ -843,7 +803,6 @@ table {
 /* service */
 
 .serv .col {
-    /* border: 1px solid black; */
     width: 30%;
     height: 600px;
     float: left;
@@ -887,7 +846,6 @@ table {
 }
 
 .scroll {
-    /* border: 1px solid black; */
     height: 500px;
 }
 
@@ -901,7 +859,6 @@ table {
 
 /* contact */
 .column .form {
-    /* border: 1px solid blue; */
     width: 50%;
     height: 95%;
     float: left;
@@ -909,7 +866,6 @@ table {
 }
 
 .form2 {
-    /* border: 1px solid black; */
     margin: 50px auto;
     width: 50%;
 }
@@ -932,7 +888,6 @@ table {
 
 
 .column .map {
-    /* border: 1px solid red; */
     width: 50%;
     height: 95%;
     float: right;
