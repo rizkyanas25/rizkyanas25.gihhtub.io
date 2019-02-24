@@ -875,9 +875,15 @@ table {
     padding: 5px;
 }
 
+
+
 .serv .pic {
     color: rgb(92, 89, 91);
 
+}
+
+.serv .pic li {
+    margin-top: 20px;
 }
 
 .scroll {
